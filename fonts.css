@@ -1,0 +1,36 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+/*GothaProBla*/
+@font-face { 
+font-family:'GothaProBla'; 
+src: url('../fonts/GothaProBla.otf')format('opentype'); 
+font-style: normal; 
+font-stretch: normal; 
+}
+/*GothaProBol*/
+@font-face { 
+font-family:'GothaProBol'; 
+src: url('../fonts/GothaProBol.otf')format('opentype'); 
+font-style: normal; 
+font-stretch: normal; 
+}
+/*GothaProLig*/
+@font-face { 
+font-family:'GothaProLig'; 
+src: url('../fonts/GothaProLig.otf')format('opentype'); 
+font-style: normal; 
+font-stretch: normal; 
+}
+/*GothaProMed*/
+@font-face { 
+font-family:'GothaProMed'; 
+src: url('../fonts/GothaProMed.otf')format('opentype'); 
+font-style: normal; 
+font-stretch: normal; 
+}
+/*GothaProReg*/
+@font-face { 
+font-family:'GothaProReg'; 
+src: url('../fonts/GothaProReg.otf')format('opentype'); 
+font-style: normal; 
+font-stretch: normal; 
+}

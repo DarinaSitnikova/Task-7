@@ -1,0 +1,251 @@
+.wrapper{
+	width: 1920px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.block1{
+	background: url("img/spase.png") no-repeat;
+	width: 1900px;
+	height: 1100px;
+	margin-left: 10px;
+	margin-right: 10px;
+	position: relative;
+}
+.header{
+	margin: 0 auto;
+	height: 370px;
+	text-align: center;
+}
+.block1 div h1 {
+	font: 60px/74px "GothaProBol", sans-serif;
+	margin-bottom: -10px;
+	padding-top: 81px;
+	padding-left: 7px;
+	color: #fff ;
+}
+.block1 p{
+	font: 30px/69px "GothaProReg", sans-serif;
+	margin-left: -5px;
+	color: #fff ;
+}
+.block1 div.total-col-1{
+	width:1140px;
+	text-align: left;
+	margin-left: 393px;
+}
+.block1 div.col-left-1, div.col-right-1 {
+	width: 50%;
+	float: left;
+	margin-top: 8px;
+}
+.block1 div.col-right-1 h2{
+	font: 42px/52px "GothaProMed", sans-serif;
+	color: #b6f1ff;
+	margin-top: 13px;
+}
+.block1 div.col-right-1 p{
+	font: 30px/50px "GothaProReg", sans-serif;
+	color: #fff;
+	margin-top: 50px;
+    margin-left: -3px;
+}
+.block1 div.col-right-1 button{
+	font: 24px/74px "GothaProBla", sans-serif;
+	color: #fff;
+	background: #ff1744;
+	border-radius: 5px;
+	border: 1px solid #ff1744;
+	width: 345px;
+	height: 71px;
+	box-shadow: 0px 4px 0px 0px #d50000;
+    margin-top: 63px;
+    cursor: pointer;
+}
+
+Почему пропадает целый блок 2, если 
+я убираю от сюда текст на русском?
+
+section.block2{
+	width: 1900px;
+	height: 1080px;
+	background-color:#fff;
+	margin-left: 10px;
+	margin-right: 10px;
+	position: absolute;
+}
+.block2 .header{
+	margin: 0 auto;
+	height: 100px;
+	text-align: center;
+}
+.block2 .header h2{
+	font: 48px/52px "GothaProMed", sans-serif;
+	margin-top: 66px;
+}
+p{
+	font: 20px 'GothamProLight', sans-serif;
+}
+.row2-1, .row2-2, .row2-3{
+	text-align: center;
+	margin-top: 100px;
+}
+.row2-3{margin-bottom: 100px;
+}
+
+.row2-1 div {
+	text-align: center;
+	width: 320px;
+	height: 100px;
+	display: inline-block;
+	font: 20px 'GothamProLight', sans-serif;
+}
+.row2-2 div {
+	text-align: center;
+	width: 320px;
+	height: 100px;
+	display: inline-block;
+	font: 20px 'GothamProLight', sans-serif;
+}
+.row2-3 div {
+	text-align: center;
+	width: 320px;
+	height: 100px;
+	display: inline-block;
+	font: 20px 'GothamProLight', sans-serif;
+}
+.block2-1 .block2-2 .block2-3 .block2-4 .block2-5 
+.block2-6 .block2-7 .block2-8 .block2-9 .block2-10{
+	width: 300px;
+	height: 220px;
+}
+
+.block3{
+	background-color:#f5f5f5;
+	height: 4771px;
+	width: 1900px;
+	margin-left: 10px;
+	margin-right: 10px;
+	text-align: center;
+	margin-top: 0px;
+	position: absolute;
+}
+.block3 .header{
+	margin: 0 auto;
+	height: 86px;
+}
+.block3 .header h1{
+	font: 48px/52px "GothaProMed", sans-serif;
+	margin-top: 66px;
+}
+.block3 .header p{
+	font: 24px/51px "GothaProLig", sans-serif;
+	margin-left: 2px;
+}
+.block3 .total-col-events h2{
+	font: 48px/52px "GothaProReg", sans-serif;
+}	
+.block3 .total-col-events h3{
+	font: 24px/30px "GothaProLig", sans-serif;
+}	
+.block3 .total-col-events h4{
+	font: 18px/30px "GothaProLig", sans-serif;
+}
+.block3 .total-col-events{
+	width: 1140px;
+	margin-left: 380px;
+}
+.block3 .total-col-events img{
+	width:383px; 
+	height:521px;
+}
+.block3 .col-left3-1 img, 
+.col-left3-3 img, 
+.col-left3-5 img , 
+.col-left3-7 img{
+	margin: 68px 86px;
+}
+.block3 .col-right3-2 img, 
+.col-right3-4 img, 
+.col-right3-6 img{
+	margin: 68px 100px;
+}
+.block3 .total-col3-1, 
+.total-col3-2, 
+.total-col3-3, 
+.total-col3-4, 
+.total-col3-5, 
+.total-col3-6, 
+.total-col3-7{
+	width: 1140px;
+	height: 660px;
+	text-align: left;
+	border-bottom: #A9A9A9 1px solid;
+}
+.block3 .col-left3-1, 
+.col-right3-1, 
+.col-left3-2, 
+.col-right3-2, 
+.col-left3-3, 
+.col-right3-3, 
+.col-left3-4, 
+.col-right3-4, 
+.col-left3-5, 
+.col-right3-5, 
+.col-left3-6, 
+.col-right3-6, 
+.col-left3-7, 
+.col-right3-7{
+	width: 50%;
+	float: left;
+}
+.block3 .col-right3-1 h2, 
+.col-right3-3 h2, 
+.col-right3-5 h2, 
+.col-right3-7 h2 {
+	margin: 106px 0 9px 11px;
+}
+.block3 .col-right3-1h3, 
+.col-right3-3 h3, 
+.col-right3-7 h3 {
+	margin: 19px 0 51px 14px;
+}
+.block3 .col-right3-1 h4, 
+.col-right3-3 h4, 
+.col-right3-5 h4, 
+.col-right3-7 h4{
+	margin: 30px 0 5px 14px;
+}
+.block3 .col-left3-2 h2, 
+.col-left3-4 h2, 
+.col-left3-6 h2 {
+	margin: 106px 0 9px 11px;
+}
+.block3 .col-left3-2 h3, 
+.col-left3-4 h3, 
+.col-left3-6 h3 {
+	margin: 19px 0 51px 14px;
+}
+.block-3 .col-left3-2 h4, 
+.col-left3-4 h4, 
+.col-left3-6 h4 {
+	margin: 30px 0 5px 14px;
+}
+
+
+
+
+footer{
+	background-color:#303f9f;
+	height: 200px;
+	width: 1900px;
+	margin-left: 10px;
+	margin-right: 10px;
+	text-align: center;
+	color: #fff;
+}
+footer p{
+	font: 18px/31px "GothaProLig", sans-serif;
+	margin-top: 70px;
+	height: 200px;
+	padding-top: 70px;
+}
